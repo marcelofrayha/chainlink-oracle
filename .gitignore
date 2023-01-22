@@ -1,0 +1,13 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+.chainlink-goerli/.env
+.chainlink-goerli/database.env
+
+# Hardhat files
+cache
+artifacts
+

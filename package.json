@@ -1,0 +1,24 @@
+{
+  "name": "chainlink-automation",
+  "version": "1.0.0",
+  "description": "Node and external adapter to fetch football stats and trigger onchain functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "chainlink",
+    "external",
+    "adapter",
+    "node",
+    "dApp",
+    "hardhat",
+    "solidity"
+  ],
+  "author": "Marcelo Frayha",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "hardhat": "^2.12.6"
+  }
+}
